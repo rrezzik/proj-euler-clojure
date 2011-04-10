@@ -16,4 +16,5 @@
 
 
 ;; solve the problem for the number 600851475143 and print it
+;; expected result: 6857
 (println (largest-prime-fact 600851475143))
